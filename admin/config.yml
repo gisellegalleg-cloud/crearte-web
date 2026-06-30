@@ -1,0 +1,5 @@
+backend:
+  name: github
+media_folder: assets/img
+public_folder: /assets/img
+collections: []

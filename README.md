@@ -1,1 +1,2 @@
-# crearte-web
+# CreArte Web
+Proyecto inicial.
